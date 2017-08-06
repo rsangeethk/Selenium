@@ -1,6 +1,4 @@
-# Selenium
-
-Seleniun Developer - SeDev
+# Seleniun Developer - SeDev
 
 Selenium Developer assist Selenium developers in Design and Maintenance phase of automation development. It reduces time in doing for maintenance for application with frequent object changes.
 
