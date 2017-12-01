@@ -12,7 +12,7 @@ Page object extractor will extract objects/locators written in java file.As of n
     &nbsp;&nbsp;&nbsp;&nbsp;Example : By.locator("locatorKey")<br/>
     c. Page Factory model<br/>
     &nbsp;&nbsp;&nbsp;&nbsp;Example : @FindBy(how = How.NAME, using = "q")<br/>
-    d. Cognizant CRAFT enum pageobject definition<br/>
+    d. enum pageobject definition<br/>
     &nbsp;&nbsp;&nbsp;&nbsp;Example : lnk_LogInHeader("nav-bar-login-icon",ID,"Login Link"),<br/>
 
 2. **Object Scanning**<br/>
